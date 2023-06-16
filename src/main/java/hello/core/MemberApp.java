@@ -5,6 +5,9 @@ import hello.core.member.Member;
 import hello.core.member.MemberService;
 import hello.core.member.MemberServiceImpl;
 
+/*
+test 를 Spring 의 도움 없이 순수히 자바 코드로만 하는 클래스
+ */
 public class MemberApp {
 
     public static void main(String[] args) {
