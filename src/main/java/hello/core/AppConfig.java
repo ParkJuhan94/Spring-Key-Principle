@@ -12,7 +12,7 @@ import hello.core.order.OrderServiceImpl;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 
-// DI 컨테이너(IOC 컨테이너, 어샘블러, 오브젝트 팩토리)
+// 스프링 없는 DI 컨테이너(IOC 컨테이너, 어샘블러, 오브젝트 팩토리)
 @Configuration
 public class AppConfig {
 
